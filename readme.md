@@ -27,5 +27,5 @@ Img
 
 
 ---
-_a project by Madalina-Lavinia Chelu  _
+_project by Madalina-Lavinia Chelu_
 
