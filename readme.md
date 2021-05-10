@@ -19,10 +19,13 @@ Principalele elemente folosite:
 
     ```
 
+Img
+
+![init sample](poz1.jpg)
 
 
 
 
 ---
-_a project by Madalina Lavinia Chelu  _
+_a project by Madalina-Lavinia Chelu  _
 
