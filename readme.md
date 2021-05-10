@@ -6,7 +6,7 @@
 
 
 Principalele elemente folosite:
-```
+
 * Placa de dezvoltare Arduino UNO
 * 4 motoare DC
 * 2 Servo motoare
@@ -17,7 +17,7 @@ Principalele elemente folosite:
 * CD-uri vechi
 * tuburi
 
-    ```
+    
 
 Img
 
